@@ -1,11 +1,9 @@
 - 👋 Hi, Je suis Aquilas KIKISSAGBE, 👀 interessé de developpement logiciel. Etudiant en Ingénierie logicielle à l'Institut de Formation et de Recherche en Informatique (IFRI) à l'Université d'Abomey-Calavi (UAC) mais égalementFreelance avec un intérêt particulier pour le développement web et mobile.
 
   
-**Ce que je fais ?
-
+**Ce que je fais ?**
     👨‍💻 Actuellement, je travaille sur des projets web et mobile (fullstack) et je suis constamment en quête de nouvelles opportunités d'apprentissage.
     🌱 J'explore et j'apprends pour développer mes compétences :
-    
     ***Language informatique maîtrisés
         JavaScript
         PHP
