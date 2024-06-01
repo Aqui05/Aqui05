@@ -4,29 +4,25 @@
 ***Ce que je fais ?***
     👨‍💻 Actuellement, je travaille sur des projets web et mobile (fullstack) et je suis constamment en quête de nouvelles opportunités d'apprentissage.
     🌱 J'explore et j'apprends pour développer mes compétences :
-    ***Language informatique maîtrisés
+    **Language informatique maîtrisés**
         JavaScript
         PHP
         Python
         Dart
-
-    ***Frameworks de développement :
+    **Frameworks de développement :**
         Laravel
         NodeJs
         ReactJs
         AngularJs
         Flutter
-
     💬 Je suis ouvert aux collaborations, aux discussions et aux retours d'expérience sur le développement web et mobile.
 
-**Mes Points Forts :
-
+**Mes Points Forts :**
     🔭 Passionné par AngularJs, Laravel et Python mais également l'administration des bases de données et ses multiples facettes.
     🚀 Je suis toujours à la recherche de défis intéressants pour développer mes compétences.
     📚 J'adore partager mes connaissances et apprendre des autres.
 
-**Comment me contacter ?
-
+**Comment me contacter ?**
     💼 Consultez mon travail sur https://Aqui05.dev.app.
     📫 Contactez-moi par email sur kikissagbeaquilas@mail.com.
     🔗 Connectons-nous sur:
