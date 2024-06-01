@@ -1,4 +1,6 @@
-- 👋 Hi, Je suis Aquilas KIKISSAGBE, 👀 interessé de developpement logiciel. Etudiant en Ingénierie logicielle à l'Institut de Formation et de Recherche en Informatique (IFRI) à l'Université d'Abomey-Calavi (UAC) mais égalementFreelance avec un intérêt particulier pour le développement web et mobile.
+# Qui suis-je ?
+
+👋 Hi, Je suis Aquilas KIKISSAGBE, 👀 interessé de developpement logiciel. Etudiant en Ingénierie logicielle à l'Institut de Formation et de Recherche en Informatique (IFRI) à l'Université d'Abomey-Calavi (UAC) mais égalementFreelance avec un intérêt particulier pour le développement web et mobile.
 
   
 # Ce que je fais ?
@@ -17,7 +19,7 @@
    - ReactJs
    - AngularJs
    - Flutter
-### 💬 Je suis ouvert aux collaborations, aux discussions et aux retours d'expérience sur le développement web et mobile.
+## 💬 Je suis ouvert aux collaborations, aux discussions et aux retours d'expérience sur le développement web et mobile.
 
 # Mes Points Forts :
   - 🔭 Passionné par AngularJs, Laravel et Python mais également l'administration des bases de données et ses multiples facettes.
